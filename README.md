@@ -5,9 +5,8 @@ I am [On the creative and idealistic side] | With Focus and Motivation 🚀 | [T
 I am a [Web/Mobile Developer] dedicated to creating simple and creative solutions that can be efficient and easy to use [Full-Stack]. With a talent for solving problems and an open mind, I strive to learn, I strive to create [With the focus on having my own financial and professional independence].
 
 **What do I do:**
-- 🚀 Application creation [Kotlin, Flutter, Next.Js, React.Js, TypeScript, JavaScript, CSS, HTML]
+- 🚀 Application creation [Kotlin, Flutter, Next.Js, React.Js, TypeScript, JavaScript, CSS, HTML, Python, Scala]
 - 💡 Exploring new technologies and tools
-- 📖 Sharing my insights through [My website will soon come out with my Portfolio and CV with the content of the experience and knowledge I acquired.]
 
 **Current focus:**
 - 🌱 Learning [I'm learning new ways of functioning and visuals that can help companies or customers interested in updating pages menus API for Authentication, Database Form for Desktop and Mobile.]
