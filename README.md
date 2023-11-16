@@ -2,10 +2,10 @@
 
 I am [On the creative and idealistic side] | With Focus and Motivation 🚀 | [Technological Innovation that proposes a change that is beneficial to our lives]
 
-I am a [Web/Mobile Developer] dedicated to creating simple and creative solutions that can be efficient and easy to use [Full-Stack]. With a talent for solving problems and an open mind, I strive to learn, I strive to create [With the focus on having my own financial and professional independence].
+I am a [Linux Developer] dedicated to creating simple and creative solutions that can be efficient and easy to use [Full-Stack]. With a talent for solving problems and an open mind, I strive to learn, I strive to create [With the focus on having my own financial and professional independence].
 
 **What do I do:**
-- 🚀 Application creation [Kotlin, Flutter, Next.Js, React.Js, TypeScript, JavaScript, CSS, HTML, Python, Scala]
+- 🚀 Application creation [Shell Script, Kotlin, Flutter, Next.Js, React.Js, TypeScript, JavaScript, CSS, HTML, Python, Scala]
 - 💡 Exploring new technologies and tools
 
 **Current focus:**
