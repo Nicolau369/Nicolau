@@ -14,7 +14,7 @@ I am a [Linux Developer] dedicated to creating simple and creative solutions tha
 - 🎯 Working towards [Getting a job opportunity that helps me financially so I can have my own responsibilities].
 
 **Let's Connect:**
-📬 [Email](mailto:1rma0lh0@protonmail.com) | 
+📬 [Email](mailto:Nicolau369@proton.me) | 
 
 I'm always open to connecting with other developers, sharing ideas, and exploring collaboration opportunities. I am willing to collaborate on good projects that can provide benefits for all sides! 🌟
 
